@@ -1,0 +1,4 @@
+object objekttestowy {
+
+  println("dzialaj");
+}
